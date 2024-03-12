@@ -17,6 +17,7 @@ extensions=(
     formulahendry.code-runner
     esbenp.prettier-vscode
     znck.grammarly
+    
 )
 
 # Get a list of all currently installed extensions.
